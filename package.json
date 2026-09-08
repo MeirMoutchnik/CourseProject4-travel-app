@@ -1,0 +1,10 @@
+{
+  "name": "6n11-travel",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm --prefix Server run dev",
+    "dev:client": "npm --prefix Client run dev",
+    "build:server": "npm --prefix Server run build",
+    "start:server": "npm --prefix Server start"
+  }
+}
